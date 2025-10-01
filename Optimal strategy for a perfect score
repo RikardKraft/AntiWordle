@@ -1,0 +1,12 @@
+The optimal strategy for getting a perfect score of no yellow or green letters in a real game simply requires using the 6 guesses:
+
+qajaq, cocco, xylyl, kibbi, pfftt, zhuzh
+
+
+This will give a perfect score if the answer is one of 22 words:
+dense, dress, geese, genre, greed, green, merge,
+nerve, never, newer, renew, semen, sense, serve,
+seven, sever, sewer, sneer, verge, verse, verve,
+wedge
+
+The strategy is so simple because new information wont change the best guesses. Because with every guess the only acceptable result is all gray letters, anything else immediately fails. 
